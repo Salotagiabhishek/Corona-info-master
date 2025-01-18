@@ -8,8 +8,7 @@ Its a desktop website.
 ## Tech Stack
 HTML and CSS
 
-## Try out
-https://mohammedafrid126.github.io/Corona-info/
+
 
 ## Web View
 
